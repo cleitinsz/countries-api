@@ -35,13 +35,10 @@ export const CountryPage = styled.main<{theme: string}>`
   }
   @media(max-width: 767px){
     &{
-      height: auto;
       padding: 20px;
     }
     .container{
       width:auto;
-
-      
     }
   }
 `
